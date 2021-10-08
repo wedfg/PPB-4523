@@ -62,7 +62,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:onClick="hitung"
-        android:text="TAMBAH"
+        android:text="PENJUMLAHAN"
         android:textSize="15dp" />
 
     <Button
