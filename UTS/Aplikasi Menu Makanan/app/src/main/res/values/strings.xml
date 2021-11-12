@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Aplikasi Menu Makanan</string>
+
+    <string-array name="Menu">
+        <item>Pecel lele</item>
+        <item>Es Oyen</item>
+        <item>Lumpia</item>
+        <item>Soto Ayam</item>
+        <item>Ketoprak</item>
+        <item>Salad buah</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Pecel lele atau pecek lele di Indonesia adalah nama sebuah makanan khas Jawa yang terdiri dari ikan lele dan sambal tomat. Ikan lele yang digoreng kering dengan minyak lalu disajikan dengan sambal tomat dan lalapan. Lalapan terdiri dari kemangi, kubis, mentimun, dan kacang panjang.</item>
+        <item>Minuman asal kota Kembang Bandung yang terdiri dari alpukat, nangka, kelapa muda, melon, susu kental manis, sirup, agar-agar, pacar china atau sagu mutiara.</item>
+        <item>Lumpia terbuat dari kulit tipis dengan berbagai isian seperti rebung, bihun, daging sapi, dan yang paling kerap diburu, yakni isian ayam. Ada dua jenis lumpia, yaitu lumpia kering yang proses memasaknya dengan cara digoreng dan lumpia basah, yang cara memasaknya dengan dikukus.</item>
+        <item>Sejenis sup ayam dengan kuah yang berwarna kekuningan. Warna kuning oleh kunyit yang digunakan sebagai bumbu.Isinya ayam, telur rebus, irisan kentang, daun seledri, serta bawang goreng. soto disajikan dengan lontong atau nasi putih. Selain itu soto ayam dihidangkan dengan sambal, kerupuk dan koya (campuran tumbukan kerupuk dengan bawang putih).</item>
+        <item>Berisi  tahu, bihun, mentimun, taoge, dan bisa juga memakai telur rebus yang dilengkapi dengan saus kacang, kecap manis, dan taburan bawang merah goreng. Dan pula dihidangkan dengan tambahan kerupuk atau emping melinjo.</item>
+        <item>Merupakan makanan segar yang terbuat dari berbagai macam buah. Biasanya salad buah disajikan sebagai dessert atau hidangan penutup. Berisi mayonaise, yoghurt, susu kental manis, Keju parut, Anggur, Melon, Semangka, Kiwi, Strawberry, Mangga, Jeruk, Buah naga, Jelly.</item>
+    </string-array>
+
+    <string-array name="Harga">
+        <item>Rp.20000</item>
+        <item>Rp.8000</item>
+        <item>Rp.50000</item>
+        <item>Rp.10000</item>
+        <item>Rp.15000</item>
+        <item>Rp.10000</item>
+    </string-array>
+
+    <string-array name="Hrg">
+        <item>Harga: 20.000</item>
+        <item>Harga: 8.000</item>
+        <item>Harga: 50.000</item>
+        <item>Harga: 10.000</item>
+        <item>Harga: 15.000</item>
+        <item>Harga: 10.000</item>
+    </string-array>
+
+</resources>
