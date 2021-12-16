@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935980144857",
+    "project_id": "reyprojek-81ad0",
+    "storage_bucket": "reyprojek-81ad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935980144857:android:e71673c1db454d427606c8",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935980144857-o5j6vpvsr17p7mofuh3sdq1pprvvl97g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmVXAdniolj-It12BeW93MK3oxxx7rWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935980144857-o5j6vpvsr17p7mofuh3sdq1pprvvl97g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
