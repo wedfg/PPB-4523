@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10810442774",
+    "firebase_url": "https://reypro-26701-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "reypro-26701",
+    "storage_bucket": "reypro-26701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10810442774:android:4d28ee82ddde94f67ae137",
+        "android_client_info": {
+          "package_name": "com.example.aplikasimenumakanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10810442774-svcub8qjlbmsetl7or9aeopqrhtijvhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChDKyzQ0ttjYihxeNrUwykBo-yJr81rz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10810442774-svcub8qjlbmsetl7or9aeopqrhtijvhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
